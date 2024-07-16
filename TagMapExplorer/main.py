@@ -176,6 +176,8 @@ def plot_map():
     # Display the map in the browser
     my_map.show_in_browser()
 
+    type("hello".upper())
+
 
 if __name__ == "__main__":
     api_key = "f5182644ea1b5833908346029b1f39db"
